@@ -1,6 +1,5 @@
 # jake debus
-
-I'm an artist. Sometimes the art is open source software.
+I'm an artist. Sometimes that includes open source software.
 ---
 
 ## samo — a self-hosted listening system
