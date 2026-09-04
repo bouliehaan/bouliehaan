@@ -22,8 +22,6 @@ program your own custom radio station on samo-server to serve to your samo-radio
 
 ---
 
-## The part I spend most of my focus on
-
 Anyone can make a screen appear. Making it feel like a *physical object* is what makes
 something feel good in your hand.
 
@@ -45,8 +43,6 @@ alone. Judgement calls about feel, made on purpose and written down.
 
 ---
 
-## Also here
-
 **[secondbrain](https://github.com/bouliehaan/secondbrain)** — a wall-mounted kiosk for
 the things I'd otherwise carry in my head. Externalizes your calendar, texts, packages,
 server alerts, weather, currently playing on samo-radio, everything you need to run a household.
@@ -55,11 +51,8 @@ Kali days, which I'm keeping because lol
 
 ---
 
-## Work with me
-
 I'm open to **UX/UI engineering and product design** work — consulting or otherwise.
 The useful version of me is the one deciding what a product should be and how it should
 feel, then taking it far enough that you can hold it.
 
-📍 the moon · 🏢 big jake industries
- jakedebus.art@gmail.com
+jakedebus.art@gmail.com
