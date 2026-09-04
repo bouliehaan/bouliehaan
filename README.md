@@ -1,18 +1,16 @@
 # jake debus
 
-**I make art. Sometimes the art is open source software.**
-
-Product and design first. Code is how I get there, not why I'm here.
-
-Before this I spent years in high-level IT and infosec. The
-taste came later.
-
+I'm an artist. Sometimes the art is open source software.
 ---
 
 ## samo — a self-hosted listening system
 
-Six repos, one system, five languages. Not a portfolio piece: it's what plays music, podcasts, radio and audiobooks
-in my house every day, and when I get it wrong it breaks my setup.
+Six repos, one system, five languages. Unifies your whole music, audiobook, podcast
+and radio libraries. Started as a "home hosted spotify" and became better than that.
+Bit perfect playback from the server to the android DAC and into your headphones.
+Right next to your podcast feed. Right next to your recently added audiobook.
+Right next to your favorite playlist and radio station. Complete with the ability to
+program your own custom radio station on samo-server to serve to your samo-radio.
 
 | | |
 |---|---|
@@ -25,9 +23,10 @@ in my house every day, and when I get it wrong it breaks my setup.
 
 ---
 
-## The part I actually care about
+## The part I spend most of my focus
 
-Anyone can make a screen appear. Making it feel like an *object* is the job.
+Anyone can make a screen appear. Making it feel like a *physical object* is what makes
+something feel good in your hand.
 
 From `theme/choreography.ts`, on why a perfectly smooth transition can still feel cheap:
 
@@ -45,28 +44,23 @@ That's the work. The motion tokens, the 60fps contract, the elevation ladder, de
 that a muted headphone jack with nothing plugged into it is *correct* and must be left
 alone. Judgement calls about feel, made on purpose and written down.
 
-**The house rules, from the server README:**
-
-- no jank
-- no fake data
-- no throwaway glue-server architecture
-- small boring reliable pieces
-
 ---
 
 ## Also here
 
 **[secondbrain](https://github.com/bouliehaan/secondbrain)** — a wall-mounted kiosk for
-the things I'd otherwise carry in my head.
+the things I'd otherwise carry in my head. Externalizes your calendar, texts, packages,
+server alerts, weather, currently playing on samo-radio, everything you need to run a household.
 And a couple of shell scripts from 2017, back in the
-Kali days, which I'm keeping because I was here.
+Kali days, which I'm keeping because lol
 
 ---
 
 ## Work with me
 
-I'm looking for **UX/UI engineering and product design** work — consulting or otherwise.
+I'm open to **UX/UI engineering and product design** work — consulting or otherwise.
 The useful version of me is the one deciding what a product should be and how it should
 feel, then taking it far enough that you can hold it.
 
 📍 the moon · 🏢 big jake industries
+ jakedebus.art@gmail.com
