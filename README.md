@@ -4,15 +4,13 @@ I'm an artist. Sometimes that includes open source software.
 
 ## samo — a self-hosted listening system
 
-Six repos, one system, five languages. Unifies your whole music, audiobook, podcast
-and radio libraries. Started as a "home hosted spotify" and became better than that.
+Unifies your whole music, audiobook, podcast and radio libraries.
+Started as a "home hosted spotify" and became better than that.
 Bit perfect playback from the server to the android DAC and into your headphones.
 Right next to your podcast feed. Right next to your recently added audiobook.
 Right next to your favorite playlist and radio station. Complete with the ability to
 program your own custom radio station on samo-server to serve to your samo-radio.
 
-| | |
-|---|---|
 | **[samo](https://github.com/bouliehaan/samo)** | the client — Android (React Native + Kotlin) and desktop (Electron), one shared core |
 | **[samo-server](https://github.com/bouliehaan/samo-server)** | the backend — Go + Postgres. Music, audiobooks, podcasts and radio as first-class domains, not one stapled onto another |
 | **[samo-radio](https://github.com/bouliehaan/samo-radio)** | a headless Go daemon that holds a Linux box's sound card open and plays out the aux port |
