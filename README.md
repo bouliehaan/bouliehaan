@@ -1,23 +1,18 @@
 # jake debus
 
-**I make art. Sometimes the art is software.**
+**I make art. Sometimes the art is open source software.**
 
-I'm not a career software engineer and I'm not going to pretend to be one. I'm the
-person who decides how a thing should *feel*, and then stays on it until it feels
-that way. Product and design first. Code is how I get there, not why I'm here.
+Product and design first. Code is how I get there, not why I'm here.
 
-Before this I spent years in high-level IT and infosec — the side where you're the
-last line and the pager is real. That's where the systems instinct comes from. The
+Before this I spent years in high-level IT and infosec. The
 taste came later.
-
-Circle clear glasses. Not square black ones.
 
 ---
 
 ## samo — a self-hosted listening system
 
-Six repos, one system, five languages. Not a portfolio piece: it's what plays music
-in my house every day, and when I get it wrong it breaks in my living room.
+Six repos, one system, five languages. Not a portfolio piece: it's what plays music, podcasts, radio and audiobooks
+in my house every day, and when I get it wrong it breaks my setup.
 
 | | |
 |---|---|
@@ -27,8 +22,6 @@ in my house every day, and when I get it wrong it breaks in my living room.
 | **[samo-proxy](https://github.com/bouliehaan/samo-proxy)** | the internet-facing edge — Go, ffmpeg transcoding, artwork sizing, compression |
 | **[samo-explo](https://github.com/bouliehaan/samo-explo)** | weekly ListenBrainz discovery, wired to the server |
 | **[sxm-proxy](https://github.com/bouliehaan/sxm-proxy)** | a SiriusXM → Icecast bridge, in C# because upstream was |
-
-Each language is there because that part needed it. None of them are there to look good.
 
 ---
 
@@ -64,8 +57,8 @@ alone. Judgement calls about feel, made on purpose and written down.
 ## Also here
 
 **[secondbrain](https://github.com/bouliehaan/secondbrain)** — a wall-mounted kiosk for
-the things I'd otherwise carry in my head. **[butterfly](https://github.com/bouliehaan/butterfly)**
-— Kotlin Multiplatform, in progress. And a couple of shell scripts from 2017, back in the
+the things I'd otherwise carry in my head.
+And a couple of shell scripts from 2017, back in the
 Kali days, which I'm keeping because I was here.
 
 ---
