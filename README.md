@@ -22,7 +22,7 @@ program your own custom radio station on samo-server to serve to your samo-radio
 
 ---
 
-## The part I spend most of my focus
+## The part I spend most of my focus on
 
 Anyone can make a screen appear. Making it feel like a *physical object* is what makes
 something feel good in your hand.
