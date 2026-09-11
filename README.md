@@ -20,8 +20,6 @@ I'm an artist. Sometimes that includes open source software.
 
 ---
 
-I'm open to **UX/UI engineering and product design** work.
-The useful version of me is the one deciding what a product should be and how it should
-feel, then taking it far enough that you can hold it.
+I'm open to **UX/UI consulting and product design** work.
 
 jakedebus.art@gmail.com
