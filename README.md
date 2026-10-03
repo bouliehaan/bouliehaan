@@ -12,8 +12,6 @@ I'm an artist. Sometimes that includes open source software.
 
 **[samo-proxy](https://github.com/bouliehaan/samo-proxy)** | the internet-facing edge. if you use a VPN on your samo-server, this will allow you to have samo-server public facing and not slow. Also helps with deezer/last.fm.
 
-**[samo-explo](https://github.com/bouliehaan/samo-explo)** | weekly ListenBrainz discovery mechanism built to work with samo.
-
 **[sxm-proxy](https://github.com/bouliehaan/sxm-proxy)** | a SiriusXM > Icecast bridge built to work with samo
 
 **[secondbrain](https://github.com/bouliehaan/secondbrain)** | externalizes a household mental load. Built around magicmirror to display calendar, notifications, packages, alerts and more
