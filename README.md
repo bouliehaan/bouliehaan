@@ -10,7 +10,7 @@ I'm an artist. Sometimes that includes open source software.
 
 **[samo-radio](https://github.com/bouliehaan/samo-radio)** | runs on any device with audio out, works as a cast & always on radio.
 
-**[samo-proxy](https://github.com/bouliehaan/samo-proxy)** | the internet-facing edge. if you use a VPN on your samo-server, this will allow you to have samo-server public facing and not slow. Also helps with deezer/last.fm.
+**[samo-proxy](https://github.com/bouliehaan/samo-proxy)** | the internet-facing edge. if you use a VPN on your samo-server, this will allow you to have samo-server public facing and not be slow. Also helps with deezer/last.fm.
 
 **[sxm-proxy](https://github.com/bouliehaan/sxm-proxy)** | a SiriusXM > Icecast bridge built to work with samo
 
